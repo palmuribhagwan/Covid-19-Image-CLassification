@@ -1,1 +1,1 @@
-# Covid-19-Image-CLassification
+# Covid-19-Image-Classification
